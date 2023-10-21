@@ -101,10 +101,8 @@ endmodule
 ![image](https://github.com/DEEPAK2200233/Exp-7-Synchornous-counters-/assets/118707676/890e7c6d-c1fa-45d2-b512-5f45f635d933)
 
 ### TRUTH TABLE 
-
-
-
-
+## UP COUNTER
+![WhatsApp Image 2023-10-21 at 09 24 57_2dda465c](https://github.com/DEEPAK2200233/Exp-7-Synchornous-counters-/assets/118707676/dcb923ce-d70e-488d-952d-618d14785510)
 
 
 ### RESULTS 
