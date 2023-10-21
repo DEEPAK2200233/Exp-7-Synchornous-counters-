@@ -58,7 +58,7 @@ RegisterNumber: 212222240023
 */
 ## UP OUNTER
 ```
-module proj6up(clk,a);
+module upcounter(clk,a);
 input clk;
 output reg[3:0]a;
 always@(posedge clk)
